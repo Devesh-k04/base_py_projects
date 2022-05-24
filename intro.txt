@@ -1,4 +1,0 @@
-there are basic python project files in this file.
-For basic arithmatic operations :
-open arithmatic 
-and so on for other ones
